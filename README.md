@@ -1,5 +1,1 @@
-I come from China.
-I major in flight control and information engineering, and have great interest in control theory and flight dynamics.
-I commonly use MATLAB/Simulink, C/C++/Arduino, Python. Moreover, I sometimes play with C# and Wolfram Mathmatica.
-Maybe you can communicate with me via Email 1074178875@qq.com.
-Quite looking forward to all your interacting!
+Studying optimal control and trajectory optimization. Using Matlab, accelerating programs with C++, having fun with Python, doing some fancy things by Wolfram Mathematica. 
